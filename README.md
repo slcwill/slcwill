@@ -5,7 +5,7 @@
 
 Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no UNASP. 🏫
 
-Estudando sobre SQL, Google Cloud, Segurança da Informação e Modelagem de Software. 🖥️
+Estudando sobre Flutter, Design de Games, Power BI, Criação e Desenvolvimento de Startups. 🖥️
 
 ### Redes Sociais: 🌐
 

@@ -3,7 +3,7 @@
 
 
 
-Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no UNASP. 🏫
+Cursando o 5º semestre de Análise e Desenvolvimento de Sistemas no UNASP. 🏫
 
 Estudando sobre Flutter, Design de Games, Power BI, Criação e Desenvolvimento de Startups. 🖥️
 
